@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="example.txt" />
+    <File Path="input.txt" />
+  </Folder>
+  <Project Path="Part1/Part1.csproj" />
+  <Project Path="Part2/Part2.csproj" />
+</Solution>
